@@ -1,2 +1,2 @@
 //prompt("konnichiwa lml");
-alert(prompt("konnichiwa lml"));
+alert(prompt("hola que tal"));
