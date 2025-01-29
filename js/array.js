@@ -15,7 +15,10 @@ const ale = {
 const jorge = {
     nombre: "jorge"
     , apellido: "acuña"
+    , edad: 28
 };
+
+vero.edad 
 
 const personas = [vero, ale, jorge];
 
